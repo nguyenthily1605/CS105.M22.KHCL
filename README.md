@@ -21,7 +21,7 @@
 
 ## Thông tin đồ án
 
-* ***Tên đồ án:** Đồ họa 3D
+* ***Tên đồ án:*** Đồ họa 3D
 * ***Công cụ:*** Web brower
 * ***Các bước chạy chương trình***:
     - B1: Tải và giải nén thư mục
