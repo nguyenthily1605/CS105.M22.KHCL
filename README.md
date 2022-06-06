@@ -17,7 +17,7 @@
 |-----|----------|---------------------|------------------------|
 | 1   | 19521818 | Nguyễn Thị Ly       | 19521818@gm.uit.edu.vn |
 | 2   | 19521488 | Nguyễn Thị Thảo Hiền| 19521488@gm.uit.edu.vn  |
-| 3   | 19522057 | Trần Hồ Thiên Phước | 19522057@gm.uit.edu.vn | 
+| 3   | 1952     | Trần Hồ Thiên Phước | 19522274@gm.uit.edu.vn | 
 
 ## Thông tin đồ án
 
@@ -28,6 +28,4 @@
     - B2: Mở folder trên IDE (ví dụ VSCode)
     - B3: Chạy file index.html bằng browser(ví dụ live server của VSCode)
     - B4: Mở trình duyệt và thao tác trên trình duyệt
- * Video demo :  https://youtu.be/2kIbcR1bi2c
-
  
