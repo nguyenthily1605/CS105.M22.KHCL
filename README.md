@@ -28,4 +28,4 @@
     - B2: Mở folder trên IDE (ví dụ VSCode)
     - B3: Chạy file index.html bằng browser(ví dụ live server của VSCode)
     - B4: Mở trình duyệt và thao tác trên trình duyệt
- 
+* Video demo : https://youtu.be/6lDkDG_Eh7A
