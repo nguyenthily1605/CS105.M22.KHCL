@@ -8,7 +8,7 @@
 
 * **Tên môn học:** Đồ họa máy tính
 * **Mã môn học:** CS105
-* **Mã lớp:** CS105.M11.KHCL
+* **Mã lớp:** CS105.M22.KHCL
 * **Giảng viên:** Cáp Phạm Đình Thăng
 
 ## Thành viên
