@@ -17,7 +17,7 @@
 |-----|----------|---------------------|------------------------|
 | 1   | 19521818 | Nguyễn Thị Ly       | 19521818@gm.uit.edu.vn |
 | 2   | 19521488 | Nguyễn Thị Thảo Hiền| 19521488@gm.uit.edu.vn  |
-| 3   | 1952     | Trần Hồ Thiên Phước | 19522274@gm.uit.edu.vn | 
+| 3   | 19522057 | Trần Hồ Thiên Phước | 19522057@gm.uit.edu.vn | 
 
 ## Thông tin đồ án
 
