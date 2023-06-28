@@ -29,3 +29,4 @@
     - B3: Chạy file index.html bằng browser(ví dụ live server của VSCode)
     - B4: Mở trình duyệt và thao tác trên trình duyệt
 * Video demo : https://youtu.be/6lDkDG_Eh7A
+* <a href='https://nguyenthily1605.github.io/CS105.M22.KHCL/'>Link demo</a>
